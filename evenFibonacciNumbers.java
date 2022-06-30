@@ -30,4 +30,5 @@ public class evenFibonacciNumbers {
     public static void main(String[] args) {
         long num = 33;
         System.out.println(solution(num));
+    }
 }
