@@ -1,4 +1,7 @@
 public class multiplesOf3Or5 {
+    /*
+     * problem 1
+     */
 
     public static int solution(int n) {
         int ans = 0;
